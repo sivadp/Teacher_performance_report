@@ -1,0 +1,17 @@
+{
+    "name": "siva/htdocs",
+    "autoload": {
+        "psr-4": {
+            "Siva\\Htdocs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sivadp",
+            "email": "siva.duppalapudi@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.28"
+    }
+}
